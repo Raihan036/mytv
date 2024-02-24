@@ -41,8 +41,7 @@ https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/deeptotv.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="BANGLA ENT.",DESH TV [BD]
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1708736398/ei/LuvYZdbHMbr1juMPvMqmwAE/ip/27.123.253.164/id/3YrWO6VZfaA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f43bAqXFa0xYhEMRdRtevlobq-gKbLIUi0ga5b5lWw0/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJ-phSD6PTVPdRmzR0w6ew_rNB8NRgyD7d14sZsEELnqAiEA9AOtj8aZ6B1IDFWG0FX2cATNJ-O4Y8I8FAj6PI8Xzzc%3D/file/index.m3u8
-
+https://www.youtube.com/@livedeshtv/live
 #EXTINF:-1 tvg-logo="https://imgur.com/HZwL21x.png" group-title="BANGLA ENT.",DURONTO TV [BD]
 https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8%7CUser-Agent=bdsajib
 #EXTINF:-1 tvg-logo="https://imgur.com/vSADHwJ.jpg" group-title="BANGLA ENT.",EKUSHEY TV [BD]
