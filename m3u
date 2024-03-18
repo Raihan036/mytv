@@ -39,6 +39,8 @@ https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
 https://livess.jagobd.com.bd/live-orgin/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/HZwL21x.png" group-title="BANGLA ENT.",DURONTO TV [BD] 1
+http://114.130.96.165:8080/1103/tracks-v1/index.fmp4.m3u8?token=
 #EXTINF:-1 tvg-logo="https://imgur.com/HZwL21x.png" group-title="BANGLA ENT.",DURONTO TV [BD]
 http://cdn01.palki.tv:80/live/Duronto-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/vSADHwJ.jpg" group-title="BANGLA ENT.",EKUSHEY TV [BD]
