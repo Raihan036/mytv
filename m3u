@@ -29,6 +29,8 @@ https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/live-orgin/biswabanglatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA ENT.",CHANNEL 9 HD [BD]
 http://cdn01.palki.tv/live/Channel9-M/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA ENT.",CHANNEL I HD YT [BD]
+https://raw.githubusercontent.com/Raihan036/Youtube-link/main/Channel-i-Live.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA ENT.",CHANNEL I HD [BD]
 http://sansat.net:88/02029761595924/9d089925dc60a821/100663
 #EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="BANGLA ENT.",CHANNEL S UK  (IPTV)[BD]
@@ -62,7 +64,7 @@ http://tv.mototvlive.net:8880/salman/salman/15750
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvGqicK.png" group-title="BANGLA ENT.",GLOBAL TV
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA ENT.",INDEPENDENT TV [BD]
-https://bongohub.pw/bioscope.php?cc=independent-tv
+https://raw.githubusercontent.com/Raihan036/Youtube-link/main/INDEPENDENT.m3u
 #EXTINF:-1 tvg-logo="https://imgur.com/KhKE5C4.png" group-title="BANGLA ENT.",JagoNews24 Tv [BD]
 https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/Hz3ZVvV.png" group-title="BANGLA ENT.",JAMUNA TV [BD]
@@ -79,6 +81,8 @@ http://tv.mototvlive.net:8880/salman/salman/1308
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BANGLA ENT.",NEWS 24 HD [BD]
 https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA ENT.",NTV YT (BD)
+https://www.youtube.com/live/bX3hSzi8r94?si=7kRI1MB9t3U-ZPZe/live
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA ENT.",NTV (BD)
 http://mag.trexlive.me:80/Michael88/Michael88/225765
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA ENT.",NTV EUROPE (BD)
