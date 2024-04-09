@@ -3,100 +3,81 @@
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W2n6UJL.png" group-title="BANGLA ENT.",BTV [BD]
 http://sansat.net:88/02029761595924/9d089925dc60a821/100659
+#EXTINF:-1 tvg-logo="https://imgur.com/CfxdGom.png" group-title="BANGLA ENT.",BTV WORLD [BD]
+https://tv5.hoichoi24.com/1114/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fKFaPG8.png" group-title="BANGLA ENT.",BTV CTG [BD]
 http://cdn01.palki.tv/live/BTVChattogram-M/index.fmp4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ozoCD1m.png" group-title="BANGLA ENT.",ATN BANGLA [BD]
-https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WCphgzj.png" group-title="BANGLA ENT.",ATN BANGLA UK [BD]
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/chunks.m3u8
+https://tv5.hoichoi24.com/1126/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ykaweLI.jpg" group-title="BANGLA ENT.",ATN NEWS [BD]
 http://sansat.net:88/02029761595924/9d089925dc60a821/100650
 #EXTINF:-1 tvg-logo="https://imgur.com/tvkLNAX.png" group-title="BANGLA ENT.",ATN MUSIC [BD]
 https://livess.jagobd.com.bd/live-orgin/atnmusic.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sYZOVV5.png" group-title="BANGLA ENT.",ANANDA TV [BD]
-https://bongohub.pw/bioscope.php?cc=ananda-tv12345
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA ENT.",ASIAN TV HD [BD]
+https://tv5.hoichoi24.com/1113/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA ENT.",ASIAN TV HD [BD] 2
 https://mtlivestream.site/asian/ytlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="BANGLA ENT.",ASIAN TV HD [BD]
+http://mag.trexlive.me:80/Michael88/Michael88/165528
 #EXTINF:-1 tvg-logo="https://imgur.com/OhQ0lZY.png" group-title="BANGLA ENT.",BOISHAKHI TV [BD]
-http://tv.mototvlive.net:8880/salman/salman/1305
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/3M6kcc8.png" group-title="BANGLA ENT.",BANGLA VISION [BD]
-http://tv.mototvlive.net:8880/salman/salman/1299
-#EXTINF:-1 tvg-logo="https://imgur.com/KzXxHj5.png" group-title="BANGLA ENT.",BANGLA TV HD [BD]
-https://bongohub.pw/bioscope.php?cc=bangla-tv
-#EXTINF:-1 tvg-logo="https://imgur.com/YhoXfmZ.png" group-title="BANGLA ENT.",BIJOY TV [BD]
-https://livess.jagobd.com.bd/live-orgin/bijoy00.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/n46QKin.png" group-title="BANGLA ENT.",Biswa Bangla 24 [BD]
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/biswabanglatv.stream/live-orgin/biswabanglatv.stream/chunks.m3u8
+https://tv5.hoichoi24.com/1125/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sTDSKGR.png" group-title="BANGLA ENT.",CHANNEL 9 HD [BD]
-http://cdn01.palki.tv/live/Channel9-M/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA ENT.",CHANNEL I HD YT [BD]
-https://raw.githubusercontent.com/Raihan036/Youtube-link/main/Channel-i-Live.m3u
+https://tv5.hoichoi24.com/1124/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nYRFnW5.png" group-title="BANGLA ENT.",CHANNEL I HD [BD]
-http://sansat.net:88/02029761595924/9d089925dc60a821/100663
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d48uZCk.png" group-title="BANGLA ENT.",CHANNEL S UK  (IPTV)[BD]
-https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BANGLA ENT.",CHANNEL 24 [BD]
-https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
+https://tv5.hoichoi24.com/1124/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WmLw772.png" group-title="BANGLA ENT.",DBC NEWS HD [BD]
-http://mag.trexlive.me:80/Michael88/Michael88/165517
+https://tv5.hoichoi24.com/1104/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/giqoc2X.jpg" group-title="BANGLA ENT.",DEEPTO TV HD [BD]
-http://tv.mototvlive.net:8880/salman/salman/1316
+https://tv5.hoichoi24.com/1105/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/quDM4Y5.png" group-title="BANGLA ENT.",DESH TV [BD]
-http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 tvg-logo="https://imgur.com/HZwL21x.png" group-title="BANGLA ENT.",DURONTO TV [BD] 2
-http://tv.mototvlive.net:8880/salman/salman/1778
+http://sansat.net:88/02029761595924/9d089925dc60a821/100668
+#EXTINF:-1 tvg-logo="https://imgur.com/HZwL21x.png" group-title="BANGLA ENT.",DURONTO TV [BD] 1
+https://s1.bongohub.pw/hoichoi.m3u8?id=1103
 #EXTINF:-1 tvg-logo="https://imgur.com/HZwL21x.png" group-title="BANGLA ENT.",DURONTO TV [BD]
 http://cdn01.palki.tv:80/live/Duronto-M/index.fmp4.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vSADHwJ.jpg" group-title="BANGLA ENT.",EKUSHEY TV [BD]
 https://ekusheyserver.com/etvlivesn.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/i8T9qQs.png" group-title="BANGLA ENT.",Ekattor TV HD [BD]
-http://tv.mototvlive.net:8880/salman/salman/1310
+https://tv5.hoichoi24.com/1136/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/3sH5Qmt.png" group-title="BANGLA ENT.",EKHON TV HD [BD]
-http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
+https://bongohub.pw/api/bdsajib/ylive.m3u8?v=KRg6skX01so
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z0aOgZr.jpg" group-title="BANGLA ENT.",GAZI TV HD [BD]
-http://176.119.29.52/live.ts?channelId=98&uid=3702&deviceMac=00:1A:79:3B:33:26
+https://tv5.hoichoi24.com/1102/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="BANGLA ENT.",GAAN BANGLA HD [BD]
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LB1gYR8.png" group-title="BANGLA ENT.",GREEN TV
-http://tv.mototvlive.net:8880/salman/salman/15750
+https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SvGqicK.png" group-title="BANGLA ENT.",GLOBAL TV
 http://cdn01.palki.tv/live/GlobalTV-M/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMk8mRZ.png" group-title="BANGLA ENT.",INDEPENDENT TV [BD]
-https://raw.githubusercontent.com/Raihan036/Youtube-link/main/INDEPENDENT.m3u
-#EXTINF:-1 tvg-logo="https://imgur.com/KhKE5C4.png" group-title="BANGLA ENT.",JagoNews24 Tv [BD]
-https://livess.jagobd.com.bd/live-orgin/jagonews24.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/Hz3ZVvV.png" group-title="BANGLA ENT.",JAMUNA TV [BD]
-http://tv.mototvlive.net:8880/salman/salman/3452
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zsahmn3.jpg" group-title="BANGLA ENT.",MAASRANGA TV [BD]
 https://mtv.sunplex.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/tJjy8hP.jpg" group-title="BANGLA ENT.",MOHONA TV [BD]
-https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/live-orgin/mohonatv00000223232244556633.stream/chunks.m3u8
-
+https://tv5.hoichoi24.com/1123/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/LEOPyYe.jpg" group-title="BANGLA ENT.",MY TV [BD]
-http://tv.mototvlive.net:8880/salman/salman/1308
+https://myflixbd.com/0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HZGVygt.png" group-title="BANGLA ENT.",Movie Bangla TV
 http://alvetv.com/moviebanglatv/8080/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H9OZgxA.png" group-title="BANGLA ENT.",NEWS 24 HD [BD]
-https://livess.jagobd.com.bd/live-orgin/news24local.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA ENT.",NTV YT (BD)
-https://www.youtube.com/live/bX3hSzi8r94?si=7kRI1MB9t3U-ZPZe/live
+https://tv5.hoichoi24.com/1112/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA ENT.",NTV (BD)
 http://mag.trexlive.me:80/Michael88/Michael88/225765
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA ENT.",NTV EUROPE (BD)
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/HgY68BW.png" group-title="BANGLA ENT.",NANDAN TV
 https://web.nandansyst.com/hls/nandan_mid/index.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/h99p6Jx.png" group-title="BANGLA ENT.",Nexus Tv [BD]
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/VNAzHut.jpg" group-title="BANGLA ENT.",RTV HD [BD]
-http://tv.mototvlive.net:8880/salman/salman/1297
+https://tv5.hoichoi24.com/1128/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PC5QaK3.jpg" group-title="BANGLA ENT.",SA TV HD [BD] 
-http://tv.mototvlive.net:8880/salman/salman/1301
+https://tv5.hoichoi24.com/1133/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYsxZO8.jpg" group-title="BANGLA ENT.",SOMOY TV [BD]
-http://mag.trexlive.me:80/Michael88/Michael88/165521
+https://tv5.hoichoi24.com/1111/tracks-v1a1/mono.m3u8
 
 KOLKATA TV
 #EXTINF:-1 tvg-logo="https://imgur.com/WmAJMm9.png" group-title="BANGLA ENT.",ABP Ananda [IN]
@@ -111,6 +92,9 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RqJGZfm.png" group-title="BANGLA ENT.",Sony Aath [IN]
 https://bongohub.pw/bioscope.php?cc=sony-aath-live
+#EXTINF:-1 tvg-logo="https://imgur.com/fWEK1U3.png" group-title="BANGLA ENT.",Sananda TV [IN]
+https://fr.tvanondo.online/sananda/video.m3u8
+
 #EXTINF:-1 tvg-logo="https://imgur.com/NqTvOiy.png" group-title="BANGLA ENT.",AMAR BANGLA [IN]
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 
@@ -123,8 +107,7 @@ https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/jPzZACc.png" group-title="BANGLA ENT.",Jalsha Movies HD [IN]
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extension=ts&play_token=otM0DQF4Ff
-
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/mhR6BbE.png" group-title="BANGLA ENT.",Sangeet Bangla [IN]
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla.m3u8
 
@@ -152,9 +135,9 @@ Cartoon
 #EXTINF:-1 tvg-logo="https://imgur.com/HmLgtzZ.jpg" group-title="BANGLA ENT.",TOM & JERRY
 http://pxy.proxytx.cloud:80/play/live.php?mac=00:1A:79:74:6A:13&stream=116162&extension=ts&play_token=GV8NUy0FxS
 #EXTINF:-1 tvg-logo="https://imgur.com/J1G7omF.png" group-title="BANGLA ENT.",NICK BANGLA
-https://bongohub.pw/bioscope.php?cc=nickelodeon
-#EXTINF:-1 tvg-logo="https://imgur.com/dR4uZuJ.jpg" group-title="BANGLA ENT.",Cartoon Network (Abu dabi)
-https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+http://172.17.50.112/live/antbd1004/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/dR4uZuJ.jpg" group-title="BANGLA ENT.",Cartoon Network
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
 ###### HINDI MOVIES. ######
 
